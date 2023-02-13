@@ -26,11 +26,11 @@
 
 ## Interest
 
-- NLP(Natural Liguistic Processing)
+- NLP(Natural Language Processing)
 - Python
 - Ruby on Rails
 - JavaScript(especially Vue.js, Vuetify)
-- Rust, C(but it is difficult for me!)
+- Rust(but it is difficult for me!)
 - Data Management
 - Japanese Linguistics(especially semantics, adjective, Lexical Conceptual Structure)
 
@@ -45,9 +45,9 @@
 ## Education
 
 - 修士（教育学）, March 2018
-  筑波大学大学院教育研究科教科教育専攻国語教育コース, April 2016 - March 2018
+  - 筑波大学大学院教育研究科教科教育専攻国語教育コース, April 2016 - March 2018
 
 - 学士（人文学）, March 2016
-  筑波大学人文・文化学群人文学類言語学主専攻日本語学コース, April 2012 - March 2016
+  - 筑波大学人文・文化学群人文学類言語学主専攻日本語学コース, April 2012 - March 2016
 
 - 群馬県立前橋高等学校, April 2009 - March 2012
