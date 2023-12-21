@@ -4,7 +4,7 @@
 
 - Corporate Engineer, Web Programmer
 - birth year: 1993
-- birthplace: Gumma pref.
+- birthplace: Gunma pref.
 
 ## Work Experience
 
@@ -12,17 +12,32 @@
 
 #### Corporate Engineer
 
-- Operate Company's cloud services(AWS, Google workspaces, Microsoft 365)
+- Operate Company's cloud services(AWS, Google workspace, Microsoft 365)
+- Operate Company's MDM（Microsoft Intune）
+- Operate Company's　EDR（Microsoft Defender for Business）
 - Operate on-premises servers at company(Microsoft Active Directory, Synology NAS)
 - Manage Company's data(200TB or more) at Amazon S3, Box.com, on-premises Synology NAS
 - Operate Company's network, buying all network equipments
+- Buying all Company's PC
 - Optimise Company's attendance management, using Python, AWS Lambda
-- Introduce work management pratform(Asana)
+- Introduce work management pratform(Slack, Asana)
 
 #### Web Programmer
 
-- Make Web Apprication for collecting NLP training data, using Ruby on Rails6, Vue.js(Vuetify)
+- Make Web Apprication for collecting NLP training data, using Ruby on Rails6, Vue.js(Vuetify), JavaScript
+- Launch Web Apprication to AWS EC2
 - Preprocess training data, especially sound and text, using Python3
+
+## Technical Skill
+
+- Python3
+- Ruby on Rails 6
+- Vue.js(Vue2), Vuetify2
+- AWS(EC2, S3, RDS, Lambda, Route53)
+- Microsoft Intune
+- Microsoft Entra ID
+- Microsoft Defender for Business
+- Linux
 
 ## Interest
 
@@ -36,6 +51,7 @@
 
 ## Certification
 
+- 応用情報技術者試験, October 2023
 - 日本商工会議所簿記検定試験3級, December 2022
 - Yamaha Certified Network Engineer Basic, December 2021
 - 高等学校教諭専修免許状(国語), March 2018
