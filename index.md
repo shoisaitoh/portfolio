@@ -1,53 +1,59 @@
-# portfolio
+# ポートフォリオ
 
-## Shoi Saitoh
+## 齋藤 匠偉（SAITOH Shoi）
 
-- Corporate Engineer, Web Programmer
-- birth year: 1993
-- birthplace: Gumma pref.
+- コーポレートエンジニア（情報システム部門）、Web開発者
+- 1993年群馬県生まれ
 
-## Work Experience
+## 職務経験
 
-### IR-ALT.inc, April 2018 - Present
+### 株式会社アイアール・アルト(IR-ALT.inc)インターン, 2017年 - 2018年
 
-#### Corporate Engineer
+### 株式会社アイアール・アルト(IR-ALT.inc), 2018年4月 - 現在
 
-- Operate Company's cloud services(AWS, Google workspaces, Microsoft 365)
-- Operate on-premises servers at company(Microsoft Active Directory, Synology NAS)
-- Manage Company's data(200TB or more) at Amazon S3, Box.com, on-premises Synology NAS
-- Operate Company's network, buying all network equipments
-- Optimise Company's attendance management, using Python, AWS Lambda
-- Introduce work management pratform(Asana)
+#### コーポレートエンジニア（情報システム部門）
 
-#### Web Programmer
+- 会社内クラウドサービスの運用（AWS, Google Workspace, Microsoft 365）
+- 社内オンプレサーバの運用（Microsoft Active Directory, Synology NAS）
+- 社内データ（200TB以上）をAmazon S3、Box、オンプレのSynology NASで管理
+- 会社内ネットワークの管理と、全てのネットワーク機器の選定・購入
+- 社内勤怠管理システムをPython、AWS Lambdaを用いて最適化
+- 社内のプロジェクトマネジメントプラットフォームとしてAsanaを導入
+- 固定資産の管理
+- 会社ホームページの運用
+- ISMS（JIS Q 27001（ISO/IEC 27001））担当者
 
-- Make Web Apprication for collecting NLP training data, using Ruby on Rails6, Vue.js(Vuetify)
-- Preprocess training data, especially sound and text, using Python3
+#### Web開発者
 
-## Interest
+- 自然言語処理の学習用データを集めるためのWebアプリケーションを、Ruby on Rails6, Vue.js(Vuetify)を用いて作成
+- Webアプリケーションを本番環境（AWS）にデプロイ
+- 学習用のテキスト及び音声データをPython3を使用して前処理
 
-- NLP(Natural Liguistic Processing)
+## 興味関心
+
+- 自然言語処理
 - Python
 - Ruby on Rails
-- JavaScript(especially Vue.js, Vuetify)
-- Rust, C(but it is difficult for me!)
-- Data Management
-- Japanese Linguistics(especially semantics, adjective, Lexical Conceptual Structure)
+- JavaScript(特に Vue.js, Vuetify)
+- Rust（とはいえ難しくて手つかず……）
+- 数百TBのデータを安全に管理する方法、オンプレのNASを廃止しても数百TBのデータを保持するのが夢
+- 日本語学（特に意味論、形容詞、語彙概念構造）
 
-## Certification
+## 所持資格
 
-- 日本商工会議所簿記検定試験3級, December 2022
-- Yamaha Certified Network Engineer Basic, December 2021
-- 高等学校教諭専修免許状(国語), March 2018
-- 中学校教諭専修免許状(国語), March 2018
-- 基本情報技術者試験, April 2016
+- 応用情報技術者試験, 2023年10月
+- 日本商工会議所簿記検定試験3級, 2022年12月
+- Yamaha Certified Network Engineer Basic, 2021年12月
+- 高等学校教諭専修免許状(国語), 2018年3月
+- 中学校教諭専修免許状(国語), 2018年3月
+- 基本情報技術者試験, 2016年4月
 
-## Education
+## 教育
 
-- 修士（教育学）, March 2018
-  筑波大学大学院教育研究科教科教育専攻国語教育コース, April 2016 - March 2018
+- 修士（教育学）, 2018年3月
+  筑波大学大学院教育研究科教科教育専攻国語教育コース, 2016年4月 - 2018年3月
 
-- 学士（人文学）, March 2016
-  筑波大学人文・文化学群人文学類言語学主専攻日本語学コース, April 2012 - March 2016
+- 学士（人文学）, 2016年3月
+  筑波大学人文・文化学群人文学類言語学主専攻日本語学コース, 2012年4月 - 2016年3月
 
-- 群馬県立前橋高等学校, April 2009 - March 2012
+- 群馬県立前橋高等学校, 2009年4月 - 2012年3月
